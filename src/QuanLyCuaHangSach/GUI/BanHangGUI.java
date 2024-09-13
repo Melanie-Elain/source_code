@@ -47,6 +47,7 @@ import javax.swing.SwingConstants;
 import javax.swing.SpinnerNumberModel;
 
 public class BanHangGUI extends JPanel {
+//	123 test
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 	private JTable tblGioHang;
